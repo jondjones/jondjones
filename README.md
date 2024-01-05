@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Jon and this account is a showcase of POCs, tutorials and code samples to help developers become better at their craft.  everything in this repo goes along with my tutorials and videos from my YouTube channel and website!
+I'm Jon and this account is a showcase of POCs, tutorials, and code samples to help developers become better at their craft.  everything in this repo goes along with my tutorials and videos from my YouTube channel and website!
 
 - 🔭 I’m currently working on an Umbraco v13 series on YouTube
 - 👨‍💻 All of my projects are available at [www.jondjones.com](www.jondjones.com)
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jondjones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jondjones" height="30" width="40" /></a>
